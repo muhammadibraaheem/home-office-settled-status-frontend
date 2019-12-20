@@ -15,6 +15,7 @@ Web application providing internal HMRC staff with an interface to check custome
     sm --start HOSS
 
 or
+
     sm --start HOSS
     sm --stop HOME_OFFICE_SETTLED_STATUS_FRONTEND
     sbt run
