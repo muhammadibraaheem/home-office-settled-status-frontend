@@ -12,7 +12,7 @@ Web application providing internal HMRC staff with an interface to check custome
 
 ## Running the app locally
 
-    sm --start AGENTS_STUBS -f
+    sm --start HOSS
     sbt run
 
 It should then be listening on port 9386
