@@ -13,6 +13,10 @@ Web application providing internal HMRC staff with an interface to check custome
 ## Running the app locally
 
     sm --start HOSS
+
+or
+    sm --start HOSS
+    sm --stop HOME_OFFICE_SETTLED_STATUS_FRONTEND
     sbt run
 
 It should then be listening on port 9386
