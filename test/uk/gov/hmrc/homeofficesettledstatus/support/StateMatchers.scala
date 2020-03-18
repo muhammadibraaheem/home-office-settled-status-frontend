@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package uk.gov.hmrc.homeofficesettledstatus.journey
+package uk.gov.hmrc.homeofficesettledstatus.support
 
 import org.scalatest.matchers.{MatchResult, Matcher}
 
